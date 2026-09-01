@@ -1,4 +1,4 @@
-pip==25.3
+pip==26.2
 invoke~=2.2.0
 poetry~=2.1.1
 semver~=3.0.0
